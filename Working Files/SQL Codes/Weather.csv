@@ -1,0 +1,11 @@
+﻿code,Weather_Label,file,col
+1,Fine no high winds,acc,Weather
+2,Raining no high winds,acc,Weather
+3,Snowing no high winds,acc,Weather
+4,Fine + high winds,acc,Weather
+5,Raining + high winds,acc,Weather
+6,Snowing + high winds,acc,Weather
+7,Fog or mist,acc,Weather
+8,Other,acc,Weather
+9,Unknown,acc,Weather
+-1,Data missing or out of range,acc,Weather

@@ -1,0 +1,209 @@
+local_authority_highway_Id,Local_Highway_Authority_Name,Type,Type
+S12000033,Aberdeen,acc,LAHighway
+S12000034,Aberdeenshire,acc,LAHighway
+S12000041,Angus,acc,LAHighway
+S12000035,Argyll & Bute,acc,LAHighway
+E09000002,Barking and Dagenham,acc,LAHighway
+E09000003,Barnet,acc,LAHighway
+E08000016,Barnsley,acc,LAHighway
+E06000022,Bath and North East Somerset,acc,LAHighway
+E06000055,Bedford,acc,LAHighway
+E09000004,Bexley,acc,LAHighway
+E08000025,Birmingham,acc,LAHighway
+E06000008,Blackburn with Darwen,acc,LAHighway
+E06000009,Blackpool,acc,LAHighway
+W06000019,Blaenau Gwent,acc,LAHighway
+E08000001,Bolton,acc,LAHighway
+E06000028,Bournemouth,acc,LAHighway
+E06000036,Bracknell Forest,acc,LAHighway
+E08000032,Bradford,acc,LAHighway
+E09000005,Brent,acc,LAHighway
+W06000013,Bridgend,acc,LAHighway
+E06000043,Brighton and Hove,acc,LAHighway
+E06000023,Bristol,acc,LAHighway
+E09000006,Bromley,acc,LAHighway
+E10000002,Buckinghamshire,acc,LAHighway
+E08000002,Bury,acc,LAHighway
+W06000018,Caerphilly,acc,LAHighway
+E08000033,Calderdale,acc,LAHighway
+E10000003,Cambridgeshire,acc,LAHighway
+E09000007,Camden,acc,LAHighway
+W06000015,Cardiff,acc,LAHighway
+W06000010,Carmarthenshire,acc,LAHighway
+E06000056,Central Bedfordshire,acc,LAHighway
+W06000008,Ceredigion,acc,LAHighway
+E06000049,Cheshire East,acc,LAHighway
+E06000050,Cheshire,acc,LAHighway
+E09000001,London,acc,LAHighway
+S12000005,Clackmannanshire,acc,LAHighway
+W06000003,Conwy,acc,LAHighway
+E06000052,Cornwall,acc,LAHighway
+E06000047,County Durham,acc,LAHighway
+E08000026,Coventry,acc,LAHighway
+E09000008,Croydon,acc,LAHighway
+E10000006,Cumbria,acc,LAHighway
+E06000005,Darlington,acc,LAHighway
+W06000004,Denbighshire,acc,LAHighway
+E06000015,Derby,acc,LAHighway
+E10000007,Derbyshire,acc,LAHighway
+E10000008,Devon,acc,LAHighway
+E08000017,Doncaster,acc,LAHighway
+E10000009,Dorset,acc,LAHighway
+E08000027,Dudley,acc,LAHighway
+S12000006,Dumfries & Galloway,acc,LAHighway
+S12000042,Dundee,acc,LAHighway
+E09000009,Ealing,acc,LAHighway
+S12000008,East Ayrshire,acc,LAHighway
+S12000009,East Dunbartonshire,acc,LAHighway
+S12000010,East Lothian,acc,LAHighway
+S12000011,East Renfrewshire,acc,LAHighway
+E06000011,East Riding of Yorkshire,acc,LAHighway
+E10000011,East Sussex,acc,LAHighway
+S12000036,Edinburgh,acc,LAHighway
+E09000010,Enfield,acc,LAHighway
+E10000012,Essex,acc,LAHighway
+S12000014,Falkirk,acc,LAHighway
+S12000015,Fife,acc,LAHighway
+W06000005,Flintshire,acc,LAHighway
+E08000020,Gateshead,acc,LAHighway
+S12000043,Glasgow,acc,LAHighway
+E10000013,Gloucestershire,acc,LAHighway
+E09000011,Greenwich,acc,LAHighway
+W06000002,Gwynedd,acc,LAHighway
+E09000012,Hackney,acc,LAHighway
+E06000006,Halton,acc,LAHighway
+E09000013,Hammersmith and Fulham,acc,LAHighway
+E10000014,Hampshire,acc,LAHighway
+E09000014,Haringey,acc,LAHighway
+E09000015,Harrow,acc,LAHighway
+E06000001,Hartlepool,acc,LAHighway
+E09000016,Havering,acc,LAHighway
+E06000019,"Herefordshire, County of ",acc,LAHighway
+E10000015,Hertfordshire,acc,LAHighway
+S12000017,Highland,acc,LAHighway
+E09000017,Hillingdon,acc,LAHighway
+E09000018,Hounslow,acc,LAHighway
+S12000018,Inverclyde,acc,LAHighway
+W06000001,Anglesey,acc,LAHighway
+E06000046,Isle of Wight,acc,LAHighway
+E06000053,Isles of Scilly,acc,LAHighway
+E09000019,Islington,acc,LAHighway
+E09000020,Kensington and Chelsea,acc,LAHighway
+E10000016,Kent,acc,LAHighway
+E06000010,Kingston upon Hull,acc,LAHighway
+E09000021,Kingston upon Thames,acc,LAHighway
+E08000034,Kirklees,acc,LAHighway
+E08000011,Knowsley,acc,LAHighway
+E09000022,Lambeth,acc,LAHighway
+E10000017,Lancashire,acc,LAHighway
+E08000035,Leeds,acc,LAHighway
+E06000016,Leicester,acc,LAHighway
+E10000018,Leicestershire,acc,LAHighway
+E09000023,Lewisham,acc,LAHighway
+E10000019,Lincolnshire,acc,LAHighway
+E08000012,Merseyside,acc,LAHighway
+EHEATHROW,London Airport (Heathrow),acc,LAHighway
+E06000032,Luton,acc,LAHighway
+E08000003,Manchester,acc,LAHighway
+E06000035,Medway,acc,LAHighway
+W06000024,Merthyr Tydfil,acc,LAHighway
+E09000024,Merton,acc,LAHighway
+E06000002,Middlesbrough,acc,LAHighway
+S12000019,Midlothian,acc,LAHighway
+E06000042,Milton Keynes,acc,LAHighway
+W06000021,Monmouthshire,acc,LAHighway
+S12000020,Moray,acc,LAHighway
+S12000013,Eilean Siar,acc,LAHighway
+W06000012,Neath Port Talbot,acc,LAHighway
+E08000021,Newcastle upon Tyne,acc,LAHighway
+E09000025,Newham,acc,LAHighway
+W06000022,Newport,acc,LAHighway
+E10000020,Norfolk,acc,LAHighway
+S12000021,North Ayrshire,acc,LAHighway
+E06000012,North East Lincolnshire,acc,LAHighway
+S12000044,North Lanarkshire,acc,LAHighway
+E06000013,North Lincolnshire,acc,LAHighway
+E06000024,North Somerset,acc,LAHighway
+E08000022,North Tyneside,acc,LAHighway
+E10000023,North Yorkshire,acc,LAHighway
+E10000021,Northamptonshire,acc,LAHighway
+E06000048,Northumberland,acc,LAHighway
+E06000018,Nottingham,acc,LAHighway
+E10000024,Nottinghamshire,acc,LAHighway
+E08000004,Oldham,acc,LAHighway
+S12000023,Orkney Islands,acc,LAHighway
+E10000025,Oxfordshire,acc,LAHighway
+W06000009,Pembrokeshire,acc,LAHighway
+S12000024,Perthshire and Kinross,acc,LAHighway
+E06000031,Peterborough,acc,LAHighway
+E06000026,Plymouth,acc,LAHighway
+E06000029,Poole,acc,LAHighway
+E06000044,Portsmouth,acc,LAHighway
+W06000023,Powys,acc,LAHighway
+E06000038,Reading,acc,LAHighway
+E09000026,Redbridge,acc,LAHighway
+E06000003,Redcar and Cleveland,acc,LAHighway
+S12000038,Renfrewshire,acc,LAHighway
+W06000016,"Rhondda, Cynon, Taff",acc,LAHighway
+E09000027,Richmond upon Thames,acc,LAHighway
+E08000005,Rochdale,acc,LAHighway
+E08000018,Rotherham,acc,LAHighway
+E06000017,Rutland,acc,LAHighway
+E08000006,Salford,acc,LAHighway
+E08000028,Sandwell,acc,LAHighway
+S12000026,Scottish Borders,acc,LAHighway
+E08000014,Sefton,acc,LAHighway
+E08000019,Sheffield,acc,LAHighway
+S12000027,Shetland Islands,acc,LAHighway
+E06000051,Shropshire,acc,LAHighway
+E06000039,Slough,acc,LAHighway
+E08000029,Solihull,acc,LAHighway
+E10000027,Somerset,acc,LAHighway
+S12000028,South Ayrshire,acc,LAHighway
+E06000025,South Gloucestershire,acc,LAHighway
+S12000029,South Lanarkshire,acc,LAHighway
+E08000023,South Tyneside,acc,LAHighway
+E06000045,Southampton ,acc,LAHighway
+E06000033,Southend-on-Sea,acc,LAHighway
+E09000028,Southwark,acc,LAHighway
+E08000013,St. Helens,acc,LAHighway
+E10000028,Staffordshire,acc,LAHighway
+S12000030,Stirling,acc,LAHighway
+E08000007,Stockport,acc,LAHighway
+E06000004,Stockton-on-Tees,acc,LAHighway
+E06000021,Stoke-on-Trent,acc,LAHighway
+E10000029,Suffolk,acc,LAHighway
+E08000024,Sunderland,acc,LAHighway
+E10000030,Surrey,acc,LAHighway
+E09000029,Sutton,acc,LAHighway
+W06000011,Swansea,acc,LAHighway
+E06000030,Swindon,acc,LAHighway
+E08000008,Tameside,acc,LAHighway
+E06000020,Telford and Wrekin,acc,LAHighway
+W06000014,The Vale of Glamorgan,acc,LAHighway
+E06000034,Thurrock,acc,LAHighway
+E06000027,Torbay,acc,LAHighway
+W06000020,Torfaen,acc,LAHighway
+E09000030,Tower Hamlets,acc,LAHighway
+E08000009,Trafford,acc,LAHighway
+E08000036,Wakefield,acc,LAHighway
+E08000030,Walsall,acc,LAHighway
+E09000031,Waltham Forest,acc,LAHighway
+E09000032,Wandsworth,acc,LAHighway
+E06000007,Warrington,acc,LAHighway
+E10000031,Warwickshire,acc,LAHighway
+E06000037,Berkshire,acc,LAHighway
+S12000039,West Dunbartonshire,acc,LAHighway
+S12000040,West Lothian,acc,LAHighway
+E10000032,West Sussex,acc,LAHighway
+E09000033,Westminster,acc,LAHighway
+E08000010,Wigan,acc,LAHighway
+E06000054,Wiltshire,acc,LAHighway
+E06000040,Windsor and Maidenhead,acc,LAHighway
+E08000015,Wirral,acc,LAHighway
+E06000041,Berkshire,acc,LAHighway
+E08000031,Wolverhampton,acc,LAHighway
+E10000034,Worcestershire,acc,LAHighway
+W06000006,Wrexham,acc,LAHighway
+E06000014,York,acc,LAHighway
+-1,Unknown,acc,LAHighway
