@@ -151,3 +151,17 @@ FROM [stg].[casualties] cas
 * Data: 
 
 Data and original report can be found here <a href="https://maps.dft.gov.uk/road-casualties/index.html">`View original project here`</a> 
+
+---
+
+* Walk-through  
+
+> 💡 Click on the image below to watch the video:  
+
+
+[![Road Casualty Report](https://img.youtube.com/vi/ef04IrSMxjc/0.jpg)](https://www.youtube.com/watch?v=ef04IrSMxjc)
+
+---
+
+
+
